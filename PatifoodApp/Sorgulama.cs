@@ -117,7 +117,7 @@ namespace PatifoodApp
                         //Toplamlarının conf a bölümü kadar for dön (büyükten küçüğe)
                         //GetCombinations çalıştır uyanları packet packet.PacketOrderProducts ekle listeden çıkart
                         //bütün döngü bittikten sonra kalan varsa packet.UnPacketOrderProducts ekle
-
+                        //ssss
                     }
 
                 }
