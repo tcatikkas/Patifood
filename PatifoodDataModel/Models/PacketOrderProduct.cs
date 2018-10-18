@@ -8,6 +8,6 @@ namespace PatifoodDataModel.Models
         [Key]
         public Guid Id { get; set; }
 
-        public OrderProduct OrderProduct { get; set; }
+        public virtual OrderProduct OrderProduct { get; set; }
     }
 }
